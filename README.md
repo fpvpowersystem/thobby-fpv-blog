@@ -1,6 +1,6 @@
 # Why 5-Inch Is Still the Sweet Spot in FPV
 
-![T-HOBBY 5-inch FPV blog cover](assets/cover.png)
+![T-HOBBY 5-inch FPV blog cover](cover.png)
 
 *Why the 5-inch FPV drone remains a balanced, versatile platform for racing, freestyle, and everyday flying.*
 
@@ -48,7 +48,7 @@ The other part is the ecosystem.
 
 After years of development, the 5-inch has built a mature system around frames, motors, props, batteries, Betaflight tuning, and power system combinations.
 
-![Article image](assets/article-image-01.png)
+![Article image](article-image-01.png)
 
 For beginners, this means less guesswork.
 
@@ -84,7 +84,7 @@ It is also a culture built by pilots.
 
 For many people, a 5-inch represents their first build, first successful tune, first unlocked flight, or first trick they finally managed to land.
 
-![Article image](assets/article-image-02.png)
+![Article image](article-image-02.png)
 
 A huge amount of racing, freestyle content, and community knowledge has developed around the platform.
 
@@ -96,7 +96,7 @@ The future of FPV is not about one size replacing another.
 
 It is about different platforms serving different needs.
 
-![Article image](assets/article-image-03.png)
+![Article image](article-image-03.png)
 
 Smaller drones focus on lightweight builds, portability, practice, and indoor or lightweight flying.
 
@@ -130,19 +130,19 @@ As an FPV power system brand, T-HOBBY continues to develop solutions around thes
 
 For 5-inch racing, the F50 motor series, F7 MINI flight controller, and F60A MINI ESC form a lightweight, responsive power system solution.
 
-![Article image](assets/article-image-04.png)
+![Article image](article-image-04.png)
 
 T-HOBBY 5-Inch Racing Power System
 
 For freestyle, the Pacer V4 motors paired with the VELOX F7 70A SE stack focus on strong power reserves while maintaining smooth and precise control.
 
-![Article image](assets/article-image-05.png)
+![Article image](article-image-05.png)
 
 T-HOBBY 5-Inch Freestyle Power System
 
 For balanced everyday builds, combinations such as V2207/2306 V3 motors with the VELOX F7 50A SE stack offer a practical balance of performance, stability, and cost.
 
-![Article image](assets/article-image-06.png)
+![Article image](article-image-06.png)
 
 T-HOBBY 5-Inch Daily Flight Power System
 
